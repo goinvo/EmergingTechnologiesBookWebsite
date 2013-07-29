@@ -11,7 +11,7 @@
 					<div class="caption">
 						<h1 class="bold">From genetic engineering <br/> to neuroscience <br/>to wearables <br/>to biohacking</h1>
 					</div>
-					<img src="<?php bloginfo('template_directory'); ?>/images/arm_with_signal.jpg" alt="emerging interaction"/>
+					<img src="<?php bloginfo('template_directory'); ?>/images/arm-with-signal.jpg" alt="emerging interaction"/>
 				</a></li>
 				<li>
 					<div class="caption">
